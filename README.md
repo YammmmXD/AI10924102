@@ -15,7 +15,7 @@
   * (請先全部啟動一次,生成必要文件,正常來講是會出錯是正常現象,在準備好其他資料後在獨自一個一個執行)
 
 # 準備數據
-* https://drive.google.com/drive/folders/1ij7-N8sgTomqEgn51AUVG5ZJ9JeGl08o?usp=sharing
+* https://drive.google.com/file/d/12nitFO9fylbwvdghK1ufBoM7wD6Io_KZ/view?usp=sharing
 * 這個是網路上找到的模型庫
 * 或者可以在網上找其他模型來使用
 * 注意由於google colab 的資源提供量不多所以模型的大小太大,不然google colab會出錯
